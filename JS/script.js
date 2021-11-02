@@ -8,3 +8,6 @@ let operador3 = 9
 let resultado = operador1+operador2+operador3 
 
 console.log (resultado)
+
+
+let radio = prompt
